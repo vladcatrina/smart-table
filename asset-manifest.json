@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/smart-table/static/js/main.155decfe.js",
+    "static/js/787.e8ceb540.chunk.js": "/smart-table/static/js/787.e8ceb540.chunk.js",
+    "index.html": "/smart-table/index.html",
+    "main.155decfe.js.map": "/smart-table/static/js/main.155decfe.js.map",
+    "787.e8ceb540.chunk.js.map": "/smart-table/static/js/787.e8ceb540.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.155decfe.js"
+  ]
+}
